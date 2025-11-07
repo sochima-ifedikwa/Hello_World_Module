@@ -16,9 +16,7 @@ As an aspiring software engineer, One of my goals is to be able to build fast ru
 # Development Environment
 
 - Visual Studio Code
-
-
-- [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) is a powerful, general-purpose programming language developed by Bjarne Stroustrup at Bell Labs in 1979. It is an extension of the C programming language, initially known as "C with Classes," and later renamed C++ in 1983, signifying its enhancement over C.
+- C++
 
 # Useful Websites
 * [Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
